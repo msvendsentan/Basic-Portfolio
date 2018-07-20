@@ -1,3 +1,3 @@
 # Basic-Portfolio
 
-Please note that I did not put much (any) effort into content. I used cat photos and lorem ipsum. If creating actual personal content is important for a grade, please let me know and I'll make an effort for context for next week's assignment.
+The assignment was to copy the format of a given image. Note that no effort was put into content; cat photos and lorem ipsum were used.
